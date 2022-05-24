@@ -22,7 +22,7 @@ export default function Navbar() {
               }}
             ></Link>
             <Link to={'/home'} className="dark:text-white font-medium ml-2 select-none">
-              Paff Wandering
+              Koleksibot
             </Link>
           </div>
 
